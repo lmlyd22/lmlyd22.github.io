@@ -8,5 +8,7 @@
 ![Java](https://img.shields.io/badge/Java-1.8-red?logo=openjdk)
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 
+[![My Skills](https://skillicons.dev/icons?i=java,idea,python,js,html,notion,linux)](https://skillicons.dev)
+
 ## 📫no or yes 活跃
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lmlyd22&show_icons=true)
